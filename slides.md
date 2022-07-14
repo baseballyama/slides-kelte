@@ -2,7 +2,7 @@
 theme: seriph
 background: https://source.unsplash.com/collection/94734566/1920x1080
 highlighter: shiki
-favicon: 'assets/favicon.svg'
+favicon: "assets/favicon.svg"
 lineNumbers: true
 info: |
   ## Slides of Kvelte
@@ -15,6 +15,7 @@ title: Kvelte ~ Use Svelte From Kotlin ~
 ---
 
 # Kvelte
+
 ## ~ Use Svelte From Kotlin ~
 
 baseballyama
@@ -38,17 +39,16 @@ baseballyama
   199x - Everything started from here
 </p>
 
-
 <div class="flex gap w-1/1">
   <div class="w-7/10">
   <h2>The Beginning of the World</h2>
   <br />
 
-  - <logos-html5 /> 1993 - First version of HTML released.
-  - <logos-css3 /> 1994 - published the first draft of the CSS.
-  - <logos-javascript /> 1995 - published the new scripting language called Mocha, which eventually became known as JavaScript.
-  </div>
+- <logos-html5 /> 1993 - First version of HTML released.
+- <logos-css3 /> 1994 - published the first draft of the CSS.
+- <logos-javascript /> 1995 - published the new scripting language called Mocha, which eventually became known as JavaScript.
 
+</div>
   <div class="w-3/10 flex flex-col items-center !opacity-70">
     <img class="w-1/1 h-9/10" src="/assets/html.jpg" />
     <span class="mt-2">Tim Berners-Lee</span>
@@ -73,20 +73,20 @@ baseballyama
   <h2>Server Side Rendering</h2>
   <br />
 
-  - <logos-php /> 1995 - PHP. Personal Home Page.
-  - <logos-java /> 1996 - Java Servlet is released. In 1999, JSP is released.
-  - <logos-java /> 2001 - Apache Struts is released. / 2002 - SPring is released.
-  - <logos-ruby /> 2005 - Ruby is an interpreted, high-level, general-purpose programming language.
-  - <logos-python /> 2005 - Django was rising in popularity.
-  - <logos-go /> 2009 - Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.
-  - <logos-laravel /> 2011 - Taylor Otwell released Laravel
-  - <logos-kotlin-icon /> 2011 - Kotlin. Sometimes called better Java.
-  </div>
+- <logos-php /> 1995 - PHP. Personal Home Page.
+- <logos-java /> 1996 - Java Servlet is released. In 1999, JSP is released.
+- <logos-java /> 2001 - Apache Struts is released. / 2002 - SPring is released.
+- <logos-ruby /> 2005 - Ruby is an interpreted, high-level, general-purpose programming language.
+- <logos-python /> 2005 - Django was rising in popularity.
+- <logos-go /> 2009 - Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.
+- <logos-laravel /> 2011 - Taylor Otwell released Laravel
+- <logos-kotlin-icon /> 2011 - Kotlin. Sometimes called better Java.
 
-  <div class="w-3/10 flex flex-col items-center !opacity-70">
-    <img class="w-1/1 h-9/10" src="/assets/ror.jpg" />
-    <span class="mt-2">David Heinemeier Hansson</span>
-  </div>
+</div>
+<div class="w-3/10 flex flex-col items-center !opacity-70">
+  <img class="w-1/1 h-9/10" src="/assets/ror.jpg" />
+  <span class="mt-2">David Heinemeier Hansson</span>
+</div>
 </div>
 
 <span class="!mt-0 mr-4">
@@ -112,18 +112,17 @@ baseballyama
   <h2>SPA / V-DOM / Declarative UI</h2>
   <br />
 
-  - <logos-angular-icon /> 2012 - Google released AngularJS.
-  - <logos-react /> 2013 - Meta released React.
-  - <logos-vue /> 2014 - 	Evan You  released Vue.js.
-  - <logos-preact /> 2015 - Jason Miller released Preact.
-  </div>
+- <logos-angular-icon /> 2012 - Google released AngularJS.
+- <logos-react /> 2013 - Meta released React.
+- <logos-vue /> 2014 - Evan You released Vue.js.
+- <logos-preact /> 2015 - Jason Miller released Preact.
 
-  <div class="w-3/10 flex flex-col items-center !opacity-70">
-    <img class="w-1/1 h-9/10" src="/assets/vue.jpg" />
-    <span class="mt-2">Evan You</span>
-  </div>
 </div>
-<!-- Flush has made the website richer. -->
+<div class="w-3/10 flex flex-col items-center !opacity-70">
+  <img class="w-1/1 h-9/10" src="/assets/vue.jpg" />
+  <span class="mt-2">Evan You</span>
+</div>
+</div>
 ---
 
 # History of Web Frameworks
@@ -137,20 +136,19 @@ baseballyama
   <h2>JavaScript Ecosystems</h2>
   <br />
 
+- <logos-nodejs /> 2009 - Node.js is an open-source, cross-platform, back-end JavaScript runtime environment.
+- <logos-express /> 2010 - express. Fast, unopinionated, minimalist web framework for node.
+- <logos-typescript-icon /> 2012 - TypeScript is a programming language developed and maintained by Microsoft.
+- <logos-babel /> 2014 - Babel is a free and open-source JavaScript transcompiler.
+- <logos-webpack /> 2014 - Webpack. Free and open-source module bundler for JavaScript.
+- <logos-nextjs-icon /> 2016 - Next.js. Hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.
+- <logos-nuxt-icon /> 2016 - Build your next Vue.js application with confidence using Nuxt.
 
-  - <logos-nodejs /> 2009 - Node.js is an open-source, cross-platform, back-end JavaScript runtime environment.
-  - <logos-express /> 2010 - 	express. Fast, unopinionated, minimalist web framework for node.
-  - <logos-typescript-icon /> 2012 - TypeScript is a programming language developed and maintained by Microsoft.
-  - <logos-babel /> 2014 - Babel is a free and open-source JavaScript transcompiler.
-  - <logos-webpack /> 2014 - Webpack. Free and open-source module bundler for JavaScript.
-  - <logos-nextjs-icon /> 2016 - Next.js. Hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.
-  - <logos-nuxt-icon /> 2016 - Build your next Vue.js application with confidence using Nuxt.
-  </div>
-
-  <div class="w-3/10 flex flex-col items-center !opacity-70">
-    <img class="w-1/1 h-9/10" src="/assets/nodejs.jpg" />
-    <span class="mt-2">Ryan Dahl</span>
-  </div>
+</div>
+<div class="w-3/10 flex flex-col items-center !opacity-70">
+  <img class="w-1/1 h-9/10" src="/assets/nodejs.jpg" />
+  <span class="mt-2">Ryan Dahl</span>
+</div>
 </div>
 ---
 
@@ -162,31 +160,28 @@ baseballyama
   
 <div class="flex gap w-1/1">
   <div class="w-7/10 pr-4">
-  <h2>JavaScript Ecosystem</h2>
-  <br />
+    <h2>JavaScript Ecosystems</h2>
+    <br />
 
+- <logos-svelte-icon /> 2016 - <logos-typescript-icon /> Svelte is a new way to build web applications.
+- <logos-deno /> 2018 - <logos-rust /> Deno. A modern runtime for JavaScript and TypeScript.
+- <logos-swc /> 2020 - <logos-rust /> SWC is an extensible Rust-based platform for the next generation of fast developer tools.
+- <logos-esbuild /> 2020 - <logos-go /> esbuild. An extremely fast JavaScript bundler.
+- <logos-vitejs /> 2020 - <logos-typescript-icon /> Vite. Next Generation Frontend Tooling.
+- <logos-svelte-icon /> 2020 - <logos-typescript-icon /> SvelteKit is a framework for building web applications of all sizes.
+- <logos-solidjs-icon /> 2021 - <logos-typescript-icon /> Solid is a declarative JavaScript library for creating user interfaces.
 
-  - <logos-deno /> 2018 - <logos-rust /> Deno. A modern runtime for JavaScript and TypeScript.
-  - <logos-swc /> 2020 - <logos-go /> SWC is an extensible Rust-based platform for the next generation of fast developer tools.
-  - <logos-esbuild /> 2020 - <logos-rust /> esbuild. An extremely fast JavaScript bundler.
-  - <logos-vitejs /> 2020 - <logos-typescript-icon /> Vite. Next Generation Frontend Tooling.
-
-<br/>
-
-  - <logos-svelte-icon /> 2016 - <logos-typescript-icon /> Svelte is a new way to build web applications.
-  - <logos-svelte-icon /> 2020 - <logos-typescript-icon /> SvelteKit is a framework for building web applications of all sizes.
-  - <logos-solidjs-icon /> 2021 - <logos-typescript-icon /> Solid is a declarative JavaScript library for creating user interfaces.
-  </div>
-
-  <div class="w-3/10 flex flex-col items-center !opacity-70">
-    <img class="w-1/1 h-9/10" src="/assets/rich.jpg" />
-    <span class="mt-2">RIch Harris</span>
-  </div>
 </div>
+<div class="w-3/10 flex flex-col items-center !opacity-70">
+  <img class="w-1/1 h-9/10" src="/assets/rich.jpg" />
+  <span class="mt-2">RIch Harris</span>
+</div>
+</div>
+
 ---
 
 <div class="flex items-center justify-center h-1/1">
-  <h1>Thinking about best tech stack</h1>
+  <h1>Rethinking Best Tech Stack for Web App</h1>
 </div>
 ---
 
@@ -199,8 +194,9 @@ baseballyama
 - Node.js / Deno / Bun will continue to grow.
 - However, the performance of JS / TS is currently not as fast as server-side languages e.g. Rust / C / Go / Kotlin.
 - JS / TS has relatively few stable libraries due to its short history.
-- Kotlin has many stable libraries that have been built up since the Java era
+- Kotlin has many stable libraries that have been built up since the Java era.
 - Go is popular now, but it is still a young language and may risky to use, especially for startups.
+- RonR? / Python? / PHP? -> I love static typing language.
 
 ---
 
@@ -229,8 +225,25 @@ Infrastructure management cost is also heavy. (e.g. How to manage version consis
 ---
 
 <div class="flex items-center justify-center h-1/1">
-  <h1>My Choice is Svelte over Kotlin</h1>
+  <h1>My Choice is Svelte and Kotlin</h1>
 </div>
+
+---
+
+<div class="flex items-center justify-center h-1/1">
+  <div class="flex flex-col items-center mb-12">
+    <h1>This is </h1><br />
+    <h1 class="kvelte">Kvelte</h1>
+  </div>
+</div>
+
+<style>
+  .kvelte {
+    line-height:1em;
+    font-size: 100px;
+  }
+</style>
+
 ---
 
 <section class="flex flex-col items-center justify-center h-1/1">
@@ -247,7 +260,7 @@ Infrastructure management cost is also heavy. (e.g. How to manage version consis
     <div class="w-1/2 ml-12">
       <ul>
         <li>Software Engineer <a href="https://flyle.io/jp" target="_blank" rel="noopener noreferrer">@Flyle</a></li>
-        <li>Maintainer / Team member of <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer">Svelte</a></li>
+        <li>Maintainer / Team member of <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer">Svelte.js</a></li>
         <li>Kotlin / Spring Boot / Vue.js / MySQL</li>
         <li><a href="https://twitter.com/baseballyama_" target="_blank" rel="noopener noreferrer">Twitter</a></li>
         <li><a href="https://github.com/baseballyama" target="_blank" rel="noopener noreferrer">GitHub</a></li>
@@ -258,322 +271,129 @@ Infrastructure management cost is also heavy. (e.g. How to manage version consis
 
 ---
 
-# Frontend development
-
-<p>
-  My Choice is Svelte over Kotlin
-</p>
-
-### ❌ Template Engine (e.g. JSP)
-
-Template engines can be difficult to develop a rich UX like native apps.
-
-### ❌ SPA x API
-
-SPA is outdated. Initial loading costs are too high.
-<br />
-Current best practice is between SPA and MPA.
-
-### ❌ (Next.js / Nuxt / etc) x API
-
-Communicate with Kotlin via HTTP using Next.js / Nuxt / etc, is heavyweight development stack.
-Infrastructure management is also a heavyweight.
+<section class="flex flex-col items-center justify-center h-1/1">
+  <img src="https://prcdn.freetls.fastly.net/release_image/76399/9/76399-9-669d361ecf751e31e59c63a0179adaeb-2400x1260.png?format=jpeg&auto=webp&quality=85%2C65&width=1950&height=1350&fit=bounds" />
+  <a class="mt-4" href="https://prtimes.jp/main/html/rd/p/000000009.000076399.html" target="_blank" rel="noopener noreferrer">https://prtimes.jp/main/html/rd/p/000000009.000076399.html</a>
+</section>
 
 ---
 
-# Navigation
-
-Hover on the bottom-left corner to see the navigation's controls panel, [learn more](https://sli.dev/guide/navigation.html)
-
-### Keyboard Shortcuts
-
-|     |     |
-| --- | --- |
-| <kbd>right</kbd> / <kbd>space</kbd>| next animation or slide |
-| <kbd>left</kbd>  / <kbd>shift</kbd><kbd>space</kbd> | previous animation or slide |
-| <kbd>up</kbd> | previous slide |
-| <kbd>down</kbd> | next slide |
-
-<!-- https://sli.dev/guide/animations.html#click-animations -->
-<img
-  v-click
-  class="absolute -bottom-9 -left-7 w-80 opacity-50"
-  src="https://sli.dev/assets/arrow-bottom-left.svg"
-/>
-<p v-after class="absolute bottom-23 left-45 opacity-30 transform -rotate-10">Here!</p>
+<section class="flex flex-col items-center justify-center h-1/1">
+  <img src="https://images.microcms-assets.io/assets/fabc5768811c4ee6b51dc6342205ca70/05e849206a8942a4b54f4feca6591522/UratotsUFlyle.png" />
+  <a class="mt-4" href="https://meety.net/articles/t2--gbwkahaqv6" target="_blank" rel="noopener noreferrer">https://meety.net/articles/t2--gbwkahaqv6</a>
+</section>
 
 ---
-layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
+
+<div class="flex flex-col items-center justify-center h-1/1">
+  <h1>Kvelte - Demo</h1>
+  <a href="https://kvelte.baseballyama.tokyo/" target="_blank" rel="noopener noreferrer">https://kvelte.baseballyama.tokyo/</a>
+</div>
+
 ---
 
-# Code
+# Why Svelte
 
-Use code snippets and get the highlighting directly![^1]
+<div class="flex">
+  <div class="w-1/2">
+    <h3>1. No Virtual DOM</h3>
+    <p>Virtual DOM increases runtime size and less performance.</p>
+    <h3>2. Easy to learn (No JSX!)</h3>
+    <p>
+      Svelte has awesome leaning platform.
+      <br/>
+      We have no time to learn JSX.
+    </p>
+    <h3>3. Built-in transitions / animations</h3>
+```ts {all|2|6}
+<script>
+	import { fade } from 'svelte/transition';
+</script>
 
-```ts {all|2|1-6|9|all}
-interface User {
-  id: number
-  firstName: string
-  lastName: string
-  role: string
-}
+{#if condition}
+<div transition:fade="{{delay: 250, duration: 300}}">
+fades in and out
+</div>
+{/if}
 
-function updateUser(id: number, update: User) {
-  const user = getUser(id)
-  const newUser = { ...user, ...update }
-  saveUser(id, newUser)
-}
 ```
+  </div>
+  <div class="w-1/2 flex flex-col items-center">
+    <h3>The State of JS 2021</h3>
+    <img class="w-1/1" src="/assets/jsstate.png" />
+  </div>
+</div>
+---
 
-<arrow v-click="3" x1="400" y1="420" x2="230" y2="330" color="#564" width="3" arrowSize="1" />
+<iframe src="https://svelte.dev/examples/transition"
+  height="150%"
+  width="150%"
+  style="transform:scale(0.67);-o-transform:scale(0.67);-webkit-transform:scale(0.67);-moz-transform:scale(0.67);-ms-transform:scale(0.67);transform-origin:0 0;-o-transform-origin:0 0;-webkit-transform-origin:0 0;-moz-transform-origin:0 0;-ms-transform-origin:0 0;"
+></iframe>
 
-[^1]: [Learn More](https://sli.dev/guide/syntax.html#line-highlighting)
+---
+
+# What is Kvelte
+
+### Kvelte is a way to use Svelte as a template engine for Kotlin users.
+
+- 💡 Framework independent
+
+<p>You can also use Kvelte for only one page of the existing app.</p>
+
+- 🚀 High performance
+
+SSR + Hydration and pre-rendering approach.
+
+- ⚡️ Built-in HMR
+
+One of the major problems of existing template engines is inadequate HMR support.
+
+- <logos-typescript-icon /> Built-in TypeScript support
+
+We love types 💜
+
+- 🤝 Type Safety between Kotlin and Svelte (under development)
+
+One of the major problems of existing template engines is no type safety between templates and program.
 
 <style>
-.footnotes-sep {
-  @apply mt-20 opacity-10;
-}
-.footnotes {
-  @apply text-sm opacity-75;
-}
-.footnote-backref {
-  display: none;
-}
+  h3 {
+    margin-bottom: 8px;
+  }
+  li {
+    font-size: 24px;
+  }
+  p {
+    margin: 8px 0 !important;
+    padding-left: 32px;
+    font-size: 16px;
+  }
 </style>
 
 ---
 
-# Components
+# For More Details
 
-<div grid="~ cols-2 gap-4">
-<div>
-
-You can use Vue components directly inside your slides.
-
-We have provided a few built-in components like `<Tweet/>` and `<Youtube/>` that you can use directly. And adding your custom components is also super easy.
-
-```html
-<Counter :count="10" />
-```
-
-<!-- ./components/Counter.vue -->
-<Counter :count="10" m="t-4" />
-
-Check out [the guides](https://sli.dev/builtin/components.html) for more.
-
-</div>
-<div>
-
-```html
-<Tweet id="1390115482657726468" />
-```
-
-<Tweet id="1390115482657726468" scale="0.65" />
-
-</div>
+<div class="flex items-center justify-center" style="height: calc(100% - 148.5px)">
+  <h2>Go <h1><a href="https://github.com/baseballyama/kvelte" target="_blank" rel="noopener noreferrer">GitHub</a></h1> for more details</h2>
 </div>
 
-
----
-class: px-20
 ---
 
-# Themes
+# Want to talk more?
 
-Slidev comes with powerful theming support. Themes can provide styles, layouts, components, or even configurations for tools. Switching between themes by just **one edit** in your frontmatter:
-
-<div grid="~ cols-2 gap-2" m="-t-2">
-
-```yaml
----
-theme: default
----
-```
-
-```yaml
----
-theme: seriph
----
-```
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-default/01.png?raw=true">
-
-<img border="rounded" src="https://github.com/slidevjs/themes/blob/main/screenshots/theme-seriph/01.png?raw=true">
-
+<div class="flex flex-col items-center justify-center" style="height: calc(100% - 50px)">
+  <div>Please send DM on </div>
+  <h1><a href="https://twitter.com/baseballyama_" target="_blank" rel="noopener noreferrer">Twitter</a></h1>
+  <br />
+  <div>Or register casual talk on</div>
+  <h1><a href="https://meety.net/matches/RMgoYMWNGosd" target="_blank" rel="noopener noreferrer">Meety</a></h1>
 </div>
 
-Read more about [How to use a theme](https://sli.dev/themes/use.html) and
-check out the [Awesome Themes Gallery](https://sli.dev/themes/gallery.html).
-
----
-
-# Animations
-
-Animations are powered by [@vueuse/motion](https://motion.vueuse.org/).
-
-```html
-<div
-  v-motion
-  :initial="{ x: -80 }"
-  :enter="{ x: 0 }">
-  Slidev
-</div>
-```
-
-<div class="w-60 relative mt-6">
-  <div class="relative w-40 h-40">
-    <img
-      v-motion
-      :initial="{ x: 800, y: -100, scale: 1.5, rotate: -50 }"
-      :enter="final"
-      class="absolute top-0 left-0 right-0 bottom-0"
-      src="https://sli.dev/logo-square.png"
-    />
-    <img
-      v-motion
-      :initial="{ y: 500, x: -100, scale: 2 }"
-      :enter="final"
-      class="absolute top-0 left-0 right-0 bottom-0"
-      src="https://sli.dev/logo-circle.png"
-    />
-    <img
-      v-motion
-      :initial="{ x: 600, y: 400, scale: 2, rotate: 100 }"
-      :enter="final"
-      class="absolute top-0 left-0 right-0 bottom-0"
-      src="https://sli.dev/logo-triangle.png"
-    />
-  </div>
-
-  <div
-    class="text-5xl absolute top-14 left-40 text-[#2B90B6] -z-1"
-    v-motion
-    :initial="{ x: -80, opacity: 0}"
-    :enter="{ x: 0, opacity: 1, transition: { delay: 2000, duration: 1000 } }">
-    Slidev
-  </div>
-</div>
-
-<!-- vue script setup scripts can be directly used in markdown, and will only affects current page -->
-<script setup lang="ts">
-const final = {
-  x: 0,
-  y: 0,
-  rotate: 0,
-  scale: 1,
-  transition: {
-    type: 'spring',
-    damping: 10,
-    stiffness: 20,
-    mass: 2
+<style>
+  div {
+    font-size: 32px;
   }
-}
-</script>
 
-<div
-  v-motion
-  :initial="{ x:35, y: 40, opacity: 0}"
-  :enter="{ y: 0, opacity: 1, transition: { delay: 3500 } }">
-
-[Learn More](https://sli.dev/guide/animations.html#motion)
-
-</div>
-
----
-
-# LaTeX
-
-LaTeX is supported out-of-box powered by [KaTeX](https://katex.org/).
-
-<br>
-
-Inline $\sqrt{3x-1}+(1+x)^2$
-
-Block
-$$
-\begin{array}{c}
-
-\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} &
-= \frac{4\pi}{c}\vec{\mathbf{j}}    \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
-
-\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
-
-\nabla \cdot \vec{\mathbf{B}} & = 0
-
-\end{array}
-$$
-
-<br>
-
-[Learn more](https://sli.dev/guide/syntax#latex)
-
----
-
-# Diagrams
-
-You can create diagrams / graphs from textual descriptions, directly in your Markdown.
-
-<div class="grid grid-cols-3 gap-10 pt-4 -mb-6">
-
-```mermaid {scale: 0.5}
-sequenceDiagram
-    Alice->John: Hello John, how are you?
-    Note over Alice,John: A typical interaction
-```
-
-```mermaid {theme: 'neutral', scale: 0.8}
-graph TD
-B[Text] --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-```plantuml {scale: 0.7}
-@startuml
-
-package "Some Group" {
-  HTTP - [First Component]
-  [Another Component]
-}
-
-node "Other Groups" {
-  FTP - [Second Component]
-  [First Component] --> FTP
-}
-
-cloud {
-  [Example 1]
-}
-
-
-database "MySql" {
-  folder "This is my folder" {
-    [Folder 3]
-  }
-  frame "Foo" {
-    [Frame 4]
-  }
-}
-
-
-[Another Component] --> [Example 1]
-[Example 1] --> [Folder 3]
-[Folder 3] --> [Frame 4]
-
-@enduml
-```
-
-</div>
-
-[Learn More](https://sli.dev/guide/syntax.html#diagrams)
-
-
----
-layout: center
-class: text-center
----
-
-# Learn More
-
-[Documentations](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/showcases.html)
+</style>
