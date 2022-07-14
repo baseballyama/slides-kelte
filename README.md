@@ -1,4 +1,4 @@
-# slides-kelte
+# slides-kvelte
 Presentation materials of Kvelte
 
-https://baseballyama.github.io/slides-kelte/
+https://baseballyama.github.io/slides-kvelte/

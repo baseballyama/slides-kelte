@@ -75,7 +75,7 @@ baseballyama
 
 - <logos-php /> 1995 - PHP. Personal Home Page.
 - <logos-java /> 1996 - Java Servlet is released. In 1999, JSP is released.
-- <logos-java /> 2001 - Apache Struts is released. / 2002 - SPring is released.
+- <logos-java /> 2001 - Apache Struts is released. / 2002 - Spring is released.
 - <logos-ruby /> 2005 - Ruby is an interpreted, high-level, general-purpose programming language.
 - <logos-python /> 2005 - Django was rising in popularity.
 - <logos-go /> 2009 - Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.
