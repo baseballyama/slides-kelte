@@ -50,7 +50,7 @@ baseballyama
   </div>
 
   <div class="w-3/10 flex flex-col items-center !opacity-70">
-    <img class="w-1/1 h-9/10" src="assets/html.jpg" />
+    <img class="w-1/1 h-9/10" src="/assets/html.jpg" />
     <span class="mt-2">Tim Berners-Lee</span>
   </div>
 </div>
@@ -84,7 +84,7 @@ baseballyama
   </div>
 
   <div class="w-3/10 flex flex-col items-center !opacity-70">
-    <img class="w-1/1 h-9/10" src="assets/ror.jpg" />
+    <img class="w-1/1 h-9/10" src="/assets/ror.jpg" />
     <span class="mt-2">David Heinemeier Hansson</span>
   </div>
 </div>
@@ -119,7 +119,7 @@ baseballyama
   </div>
 
   <div class="w-3/10 flex flex-col items-center !opacity-70">
-    <img class="w-1/1 h-9/10" src="assets/vue.jpg" />
+    <img class="w-1/1 h-9/10" src="/assets/vue.jpg" />
     <span class="mt-2">Evan You</span>
   </div>
 </div>
@@ -148,7 +148,7 @@ baseballyama
   </div>
 
   <div class="w-3/10 flex flex-col items-center !opacity-70">
-    <img class="w-1/1 h-9/10" src="assets/nodejs.jpg" />
+    <img class="w-1/1 h-9/10" src="/assets/nodejs.jpg" />
     <span class="mt-2">Ryan Dahl</span>
   </div>
 </div>
@@ -179,7 +179,7 @@ baseballyama
   </div>
 
   <div class="w-3/10 flex flex-col items-center !opacity-70">
-    <img class="w-1/1 h-9/10" src="assets/rich.jpg" />
+    <img class="w-1/1 h-9/10" src="/assets/rich.jpg" />
     <span class="mt-2">RIch Harris</span>
   </div>
 </div>
@@ -236,13 +236,13 @@ Infrastructure management cost is also heavy. (e.g. How to manage version consis
 <section class="flex flex-col items-center justify-center h-1/1">
   <div class="flex flex-col items-center h-1/1 mb-4">
     <div class="w-1/5">
-      <img class="rounded-1/2" src="assets/baseballyama.jpg" />
+      <img class="rounded-1/2" src="/assets/baseballyama.jpg" />
     </div>
     <span class="text-3xl mt-4 text-xl">baseballyama</span>
   </div>
   <div class="flex w-1/1">
     <div class="w-1/2">
-      <img src="assets/flyle.png"/>
+      <img src="/assets/flyle.png"/>
     </div>
     <div class="w-1/2 ml-12">
       <ul>
