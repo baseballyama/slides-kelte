@@ -339,7 +339,7 @@ fades in and out
 
 - 💡 Framework independent
 
-<p>You can also use Kvelte for only one page of the existing app.</p>
+<p>You can also use Kvelte for only one page of your existing app.</p>
 
 - 🚀 High performance
 
