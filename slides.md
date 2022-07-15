@@ -258,8 +258,8 @@ Infrastructure management cost is also heavy. (e.g. How to manage version consis
     <div class="w-1/2 ml-12">
       <ul>
         <li>Software Engineer <a href="https://flyle.io/jp" target="_blank" rel="noopener noreferrer">@Flyle</a></li>
-        <li>Maintainer / Team member of <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer">Svelte.js</a></li>
         <li>Kotlin / Spring Boot / Vue.js / MySQL</li>
+        <li>Maintainer / Team member of <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer">Svelte.js</a></li>
         <li><a href="https://twitter.com/baseballyama_" target="_blank" rel="noopener noreferrer">Twitter</a></li>
         <li><a href="https://github.com/baseballyama" target="_blank" rel="noopener noreferrer">GitHub</a></li>
       </ul>
@@ -374,7 +374,13 @@ One of the major problems of existing template engines is no type safety between
 # For More Details
 
 <div class="flex items-center justify-center" style="height: calc(100% - 148.5px)">
-  <h2>Go <h1><a href="https://github.com/baseballyama/kvelte" target="_blank" rel="noopener noreferrer">GitHub</a></h1> for more details</h2>
+  <div class="flex items-center flex-col">
+    <h2>Go <h1><a href="https://github.com/baseballyama/kvelte" target="_blank" rel="noopener noreferrer">GitHub</a></h1> for more details</h2>
+    <br />
+    <h2>And I need your support!</h2>
+    <br />
+    <h2>Create issues and PRs are welcome!</h2>
+  </div>
 </div>
 
 ---
