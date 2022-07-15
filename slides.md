@@ -11,12 +11,12 @@ info: |
   Learn more at [GitHub](https://github.com/baseballyama/kvelte)
 drawings:
   persist: false
-title: Kvelte ~ Use Svelte From Kotlin ~
+title: Kvelte ~ Rethinking Best Tech Stack for Web App ~
 ---
 
 # Kvelte
 
-## ~ Use Svelte From Kotlin ~
+## ~ Rethinking Best Tech Stack for Web App ~
 
 baseballyama
 
@@ -188,7 +188,7 @@ baseballyama
 # Backend development
 
 <p>
-  My choice is Kotlin
+  I choose Kotlin
 </p>
 
 - Node.js / Deno / Bun will continue to grow.
@@ -225,7 +225,7 @@ Infrastructure management cost is also heavy. (e.g. How to manage version consis
 ---
 
 <div class="flex items-center justify-center h-1/1">
-  <h1>My Choice is Svelte and Kotlin</h1>
+  <h1>I choose Svelte and Kotlin</h1>
 </div>
 
 ---
