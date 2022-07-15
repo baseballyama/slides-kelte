@@ -14,9 +14,7 @@ drawings:
 title: Kvelte ~ Rethinking Best Tech Stack for Web App ~
 ---
 
-# Kvelte
-
-## ~ Rethinking Best Tech Stack for Web App ~
+# Rethinking Best Tech Stack <br /> for Web App
 
 baseballyama
 
